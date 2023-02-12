@@ -151,7 +151,7 @@ h6 {
 
 @media (max-width: 1050px) {
 
-    #title {
+    #title .container-fluid{
         text-align: center;
     }
 
